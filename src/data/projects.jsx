@@ -7,7 +7,7 @@ const projects = [
       "A fast, responsive developer portfolio featuring custom components, framer-motion animations, responsive layouts, and interactive contact messaging.",
     tech: ["React 19", "Vite", "Framer Motion", "JavaScript", "CSS3"],
     github: "https://github.com/jillelasathishreddy-commits/my-portfolio",
-    demo: "",
+    demo: "https://jillelasathishreddy-commits.github.io/my-portfolio/",
     status: "Live",
     icon: "folder-code",
   },
